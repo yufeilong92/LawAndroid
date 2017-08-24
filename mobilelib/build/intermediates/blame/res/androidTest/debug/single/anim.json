@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\683d68e8836eb11594d191782962d80d48d3e50b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\newprogrester\\LawHelperAndroid\\mobilelib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\823f3ea5bd3bb717ff7267f768293a43a1cad50c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

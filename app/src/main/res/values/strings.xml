@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LawHelperAndroid</string>
+    <string name="showFirst">首页</string>
+    <string name="setting">设置</string>
+    <string name="help">帮助</string>
+    <string name="upapp">更新</string>
+    <string-array name="tab_botton">
+        <item>首页</item>
+        <item>设置</item>
+        <item>帮助</item>
+    </string-array>
+
+    <string name="zhishi">知识索引检索</string>
+    <string name="shouce">实务技能手册</string>
+    <string name="tool">实务辅助工具</string>
+    <string name="ziliao">快速资料检索</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Assistant_system">办案助手系统</string>
+    <string name="tools">实务辅助工具</string>
+    <string name="SendError">获取数据失败</string>
+    <string name="Date_Calculation">日期计算</string>
+    <string name="Period_calculation">期间计算</string>
+    <string name="routine_calculation">常规计算</string>
+    <string name="word_calculation">工作日换算</string>
+    <string name="startData">开始日期:</string>
+    <string name="endData">结束日期:</string>
+    <string name="datanumber">时间间隔天数(天):</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+</resources>

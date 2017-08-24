@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_main"
+    android:orientation="vertical"
+    tools:context="com.lawyee.lawyeehelper2.ui.DataActivity">
+    <include android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        layout="@layout/toolbar_tools" />
+
+    <RadioGroup
+        android:gravity="center"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+            <RadioButton
+                android:checked="true"
+                android:id="@+id/rdobtn_routine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/routine_calculation"
+                android:layout_centerHorizontal="true" />
+        <Space
+            android:layout_width="@dimen/margin_16"
+            android:layout_height="match_parent" />
+            <RadioButton
+                android:layout_centerHorizontal="true"
+                android:id="@+id/rdobtn_word"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/word_calculation" />
+    </RadioGroup>
+    <android.support.v7.widget.CardView
+        android:layout_marginLeft="@dimen/margin_16"
+        android:layout_marginRight="@dimen/margin_16"
+        android:background="@color/white"
+        android:id="@+id/fragment"
+        app:cardCornerRadius="@dimen/margin_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
